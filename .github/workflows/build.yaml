@@ -1,0 +1,25 @@
+name: Build Project
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+
+      - name: Install mdbook
+        run: cargo install mdbook
+
+      - name: Build book
+        run: mdbook build ./docs
