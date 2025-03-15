@@ -16,7 +16,9 @@
 - [Incoming Calls]()
 
 # Tools
-- [Sadhaka]()
+- [Sadhaka](./3_tools/sadhaka.md)
+    - [SDP Review](./3_tools/sadhaka/sdp_review.md)
+    - [Interview Tab](./3_tools/sadhaka/interview_tab.md)
 - [SP Portal]()
 - [Freshdesk]()
 - [Helpdesk AppSheet]()
