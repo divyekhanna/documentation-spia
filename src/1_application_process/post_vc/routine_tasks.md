@@ -1,5 +1,15 @@
 # Post VC Routine Tasks
 
+
+| Header1 | Header2 |
+|---------|---------|
+| abc     | def     |
+
+## Routine Tasks
+
+1.
+1.
+
 ## 1. Calling the applicant
 
 The calls will be made from a dedicated phone number provided to the Post VC team member. The key points to discuss with the applicant:
@@ -51,4 +61,43 @@ To close any awaiting information pending cases, it is important that all the aw
 
 * We should remove the Awaiting info-pending tag
 * We should close the case by adding the Awaiting info-closed tag in the Application tags
+
+## Post Video Call Actions
+Following actions are performed post Video Call:
+
+1. Awaiting Info from PPT - Used for Information pending from Applicant. A pop up box appears after clicking this button where the video caller has to feed the information pending from the applicant. This information is visible in the comments section. Additionally, relevant interview tag/s are applied:
+    * Interview Tag: Awaiting Info - Practice Correction. Information to be captured:
+        * Steps incorrect/missed in practice
+        * Mandala requirement
+        * Follow-up date
+    * Interview Tag: Awaiting Info - Consent. Information to be captured:
+        * Awareness of the program and stay duration
+        * Financial dependencies (on parents or applicant)
+        * Physical dependencies on the applicant
+        * Follow-up date
+        * Preferred language for communication
+        * Convenient time to contact parent/spouse
+    * Interview Tag: Awaiting Info - Irregular with Practice. Information to be captured:
+        * Frequency of practice per week
+        * Date of last practice
+        * Mandala requirement
+        * Follow-up date
+    * Interview Tag: Awaiting Info - Mandala Completion. Information to be captured:
+        * Total days of Mandala completed
+        * Days missed and reasons
+        * Follow-up date
+    * Interview Tag: Awaiting Info - Need More Time. Information to be captured:
+        * Reason for needing more time
+        * Follow-up date
+    * Interview Tag: Awaiting Info - Intoxicants. Information to be captured:
+        * Substance/s usage and frequency
+        * Follow-up date
+1. Send/Resend Health Assessment Form Email - Used for sending or re-sending HA form.
+1. Add Comments
+1. Cancel Application - Can be used for Canceling Application.
+1. Application Processing Priority - Unused currently
+1. Ready for Review - Once all the required information is received, this button is  clicked to move the application to the review stage. The system performs multiple checks before advancing the application, such as:
+    * All mandatory fields in the feedback sections must be completed by the video caller.
+    * If Awaiting Info from PPT is required, it must not be pending.
+    * If VOF is required, it must not be pending.
 

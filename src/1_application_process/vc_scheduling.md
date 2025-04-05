@@ -1,7 +1,7 @@
 # VC Scheduling
 
 - Routine tasks
-    1. Enable slots - Interview slots enabled date is not set - Check IE status, send Whatsapp reminder the same day
+    1. Enable slots - Interview slots enabled date is not set - Check language, IE status, send Whatsapp reminder the same day
     2. Appointment summary - See the appointment status
     3. Updating data Dump - Appsheet
     4. Reflection form - NO (Indian + Indian overseas)
