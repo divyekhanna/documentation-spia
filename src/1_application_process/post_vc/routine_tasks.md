@@ -7,7 +7,7 @@
 
 ## Routine Tasks
 
-1.
+1. Complete Post VC follow-up calls ([Reference](./followup_types.md)).
 1.
 
 ## 1. Calling the applicant
@@ -100,4 +100,14 @@ Following actions are performed post Video Call:
     * All mandatory fields in the feedback sections must be completed by the video caller.
     * If Awaiting Info from PPT is required, it must not be pending.
     * If VOF is required, it must not be pending.
+
+## From Post VC Training
+
+Sadhaka & Appsheet:
+- Record all conversations in the comments section in Sadhaka
+- Appsheet walkthrough:
+    - If reviewer decision or doctor decision is rejected, then also select follow-up completed
+- Sadhaka Interviews Page:
+    - Awaiting info and ready for review cases (with pending awaiting?)
+    - Application and interview tags
 

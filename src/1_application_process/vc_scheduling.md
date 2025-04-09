@@ -2,7 +2,7 @@
 
 - Routine tasks
     1. Enable slots - Interview slots enabled date is not set - Check language, IE status, send Whatsapp reminder the same day
-    2. Appointment summary - See the appointment status
+    2. Appointment summary - See the appointment status. In case Video caller did not mark the appointment as complete, the scheduler must do it after confirming with video caller.
     3. Updating data Dump - Appsheet
     4. Reflection form - NO (Indian + Indian overseas)
     5. Making reminder calls (through appsheet) to 
