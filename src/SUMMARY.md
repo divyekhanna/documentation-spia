@@ -28,7 +28,7 @@
     - [IT POC Process](./3_tools/helpdesk_appsheet/it_poc_process.md)
 - [VC Scheduling AppSheet]()
 - [Post VC AppSheet](./3_tools/post_vc_appsheet.md)
-- [Pre VC AppSheet]()
+- [Pre VC AppSheet](./3_tools/pre_vc_appsheet.md)
 - [Trial AppSheet]()
 - [Arrivals AppSheet]()
 - [Automated WhatsApp Engagements]()
