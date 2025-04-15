@@ -61,4 +61,4 @@ In case the participant recives 404 Error while trying to access Full Profile fo
 
 In case of Health Assessment Form, please go to their profile in Sadhaka interview page and re-send the health assessment form using the button shown in the screenshot below. There is a bug in Sadhaka where the first time the email is sent, the Health Assessment tab is not enabled in SP Portal. Second time it works (using this button).
 
-![HA Form Re-send Button](/images/it_troubleshooting/ha_404_button_screenshot.png)
+![HA Form Re-send Button](./images/ha_404_button_screenshot.png)
